@@ -3,6 +3,7 @@
 # Список интернет-ресурсов сообщества
 - Общение: в телеграмме https://t.me/brest_python
 - Анонсы митапов: https://community-z.com/communities/brest_python/events
+- Github: https://github.com/brestpython
 
 # Модераторы
 
